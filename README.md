@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Jekyll](https://img.shields.io/badge/Built%20with-Jekyll-red.svg)](https://jekyllrb.com/)
 
-<img src="assets/img/minimal-photon-demo.gif" width="1280" alt="Demo演示" />
+![demo](https://github.com/user-attachments/assets/ebfd9c12-3d3c-4c24-ace0-6aff7a9f1969)
 
 **Minimal Photon** is a clean, elegant, and responsive academic homepage template designed for researchers, professors, and students. It is built on top of the [Minimal Light](https://github.com/yaoyao-liu/minimal-light) theme, featuring a **minimalist Apple-inspired design**, enhanced data management, automated publication updates from BibTeX, and a stylish typewriter intro animation. Check out my [homepage](https://kuangzhige.github.io/) for a live demo.
 
